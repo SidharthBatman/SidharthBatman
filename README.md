@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sidharth
-- 🌱 I’m currently learning C++ , Python...
+- 🌱 I’m currently learning Python...
 
 
 <!---
